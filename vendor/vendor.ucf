@@ -1,0 +1,46 @@
+NET "clk" LOC = AF13;
+NET "rst_button" LOC=K5;
+NET "sure_button" LOC = K8;
+NET "goods[3]" LOC=D1;
+NET "goods[2]" LOC =E3;
+NET "goods[1]" LOC=E1;
+NET "goods[0]" LOC =F3;
+
+NET "led[3]" LOC = N2;
+NET "led[2]" LOC = N1;
+NET "led[1]" LOC = K9;
+NET "led[0]" LOC = L9;
+
+NET "money[2]" LOC=G3;
+NET "money[1]" LOC =H7;
+NET "money[0]" LOC=H3;
+
+NET "data_1_7seg[0]" LOC = E19;
+NET "data_1_7seg[1]" LOC = E20;
+NET "data_1_7seg[2]" LOC = A19;
+NET "data_1_7seg[3]" LOC = F17;
+NET "data_1_7seg[4]" LOC = E18;
+NET "data_1_7seg[5]" LOC = C21;
+NET "data_1_7seg[6]" LOC = C17;
+
+NET "data_0_7seg[0]" LOC = J14;
+NET "data_0_7seg[1]" LOC = B12;
+NET "data_0_7seg[2]" LOC = F16;
+NET "data_0_7seg[3]" LOC = C18;
+NET "data_0_7seg[4]" LOC = D18;
+NET "data_0_7seg[5]" LOC = D13;
+NET "data_0_7seg[6]" LOC = A18;
+
+NET "scan_en_0[3]" LOC = G14;
+NET "scan_en_0[2]" LOC = C15;
+NET "scan_en_0[1]" LOC = A17;
+NET "scan_en_0[0]" LOC = E16;
+NET "scan_en_1[3]" LOC = C20;
+NET "scan_en_1[2]" LOC = F18;
+NET "scan_en_1[1]" LOC = C19;
+NET "scan_en_1[0]" LOC = G17;
+NET "led_warn" LOC = C16;
+NET "led_half_out" LOC = B18;
+
+
+

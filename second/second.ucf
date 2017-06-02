@@ -1,0 +1,15 @@
+NET "clk" LOC = AF13;
+NET "clrn" LOC = K5;
+NET "startstopn" LOC = K8;
+NET "data_out[0]" LOC = E19;
+NET "data_out[1]" LOC = E20;
+NET "data_out[2]" LOC = A19;
+NET "data_out[3]" LOC = F17 ;
+NET "data_out[4]" LOC = E18;
+NET "data_out[5]" LOC = C21;
+NET "data_out[6]" LOC = C17;
+NET "scan_en[0]" LOC = G17;
+NET "scan_en[1]" LOC = C19 ;
+NET "scan_en[2]" LOC = F18;
+NET "scan_en[3]" LOC = C20;
+NET "cn" LOC = L9;
